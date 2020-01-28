@@ -1,2 +1,4 @@
 # gitclasss
-some git workiflows
+
+this is my reposity used for the git class
+git is awesome
